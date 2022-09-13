@@ -4,7 +4,8 @@
   "description": "A Twitter bot that counts the days until I can see my GF",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
@@ -26,5 +27,9 @@
     "serverless": "^3.22.0",
     "serverless-secrets-plugin": "^0.1.0",
     "twit": "^2.2.11"
+  },
+  "devDependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
   }
 }
