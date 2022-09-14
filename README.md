@@ -1,5 +1,6 @@
 <h1 align="center">lovebot</h1>
-<p align="center">A Twitter bot that counts the days until I see my GF</p>                                                                                                                                                                                   
+<p align="center">A Twitter bot that counts the days until I see my GF</p>
+
 ### 📚 Learned
 ---
 
@@ -13,7 +14,6 @@
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/85142222?s=400&u=e71d212eafda371d12260e53154b40970ebeb4be&v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Julia Bier</b></sub></a>
-
 
 Made with ❤️ by Julia Bier 👋🏽 Contact me!
 
